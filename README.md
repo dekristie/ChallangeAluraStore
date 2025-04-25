@@ -78,27 +78,24 @@ Este relatório tem por finalidade identificar, com base em uma análise criteri
 
 ## Conclusão e Recomendação
 
-### Loja Recomendada para Venda: **Rio Grande do Sul (RS)**
+À luz dos dados analisados, a unidade localizada no **Rio Grande do Sul** revela fragilidades que comprometem sua viabilidade dentro da rede do Senhor João. Entre os indicadores mais críticos, destacam-se:
 
-**Motivos:**
+- **Faturamento reduzido**, representando apenas 16 % da receita total, o menor entre todas as lojas;  
+- **Custos logísticos elevados**, com frete médio de R$ 32,50, cerca de 30 % acima da média nacional;  
+- **Avaliação inferior por parte dos clientes**, com nota média de 3,9 ★, a mais baixa entre as quatro unidades;  
+- **Desempenho insatisfatório nas categorias mais estratégicas** (eletrônicos e móveis), refletindo baixo retorno e participação de mercado.
 
-- Menor participação no faturamento (16%)
-- Avaliação mais baixa entre os clientes (3,9 ★)
-- Custo de frete mais elevado (R$ 32,50)
-- Desempenho insatisfatório em categorias rentáveis
-- Concentração de produtos com baixo ticket médio
+Tais fatores, considerados de forma integrada, indicam que a manutenção desta filial impõe uma pressão desnecessária sobre os recursos operacionais e limita o crescimento sustentável da rede.
 
-### Vantagens Estratégicas:
+**Recomenda-se, portanto, a alienação da loja do Rio Grande do Sul**, como medida estratégica para:
 
-- Maior foco em lojas com melhor desempenho (SP e RJ)
-- Otimização de custos operacionais
-- Potencial aumento da satisfação do cliente
+1. **Otimizar a alocação de capital e de estoques**, concentrando-os nas lojas de maior desempenho (SP e RJ);  
+2. **Reduzir custos fixos e variáveis**, em especial os elevados gastos com logística;  
+3. **Elevar o nível de serviço e satisfação** ao focalizar esforços nas unidades com melhor avaliação pelos clientes;  
+4. **Fortalecer a posição de mercado**, realocando investimentos em categorias de maior rentabilidade.
 
-## Próximas Etapas
+Esta decisão, fundamentada em critérios objetivos e em análise rigorosa, não apenas assegura a sustentabilidade financeira da operação como também reforça a qualidade do atendimento e a eficiência na gestão de recursos.
 
-- Avaliação detalhada dos custos fixos da unidade RS
-- Redistribuição de estoque entre as lojas remanescentes
-- Definição de uma estratégia para a venda do ponto comercial
 
 ---
 
