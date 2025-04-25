@@ -100,4 +100,4 @@ Este relatório tem por finalidade identificar, com base em uma análise criteri
 ---
 
 📅 **Relatório gerado em:** 24/04/2025  
-👤 **Responsável pela análise:**Denise Cristine Brandão Leite**
+👤 **Responsável pela análise:** **Denise Cristine Brandão Leite**
